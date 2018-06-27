@@ -1,4 +1,14 @@
+@import 'start_page/start_page.scss';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+}
+
 body {
     height: 100vh;
-    background-color: red;
+    background-color: #B33771;
 }
